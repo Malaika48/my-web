@@ -12,13 +12,13 @@ const projects = [
     title: "custom GPt",
     description: "A generator in AI is a deep learning model that generates new, synthetic data or content, such as images, text, or music.",
     link: "https://github.com/yourusername/nlp-chatbot",
-    image: "/g.jpeg",
+    image: "/m.jpeg",
   },
   {
     title: "web develpment",
     description: "Web development: Building and maintaining websites and web applications using programming languages, frameworks, and databases to create interactive and dynamic online experiences..",
     link: "https://github.com/yourusername/predictive-analytics-dashboard",
-    image: "/w.jpeg",
+    image: "/q.jpeg",
   },
 ]
 
